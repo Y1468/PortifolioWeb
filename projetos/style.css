@@ -25,10 +25,14 @@ header{
 .btn{
     padding: 10px;
     width: 130px;
-    background:#3e49e6;
+    background:blue;
     border: none;
     border-radius: 10px;
+    
+}
 
+.btn:hover{
+    background-color: #3e49e6;
 }
 
 .btn a{
